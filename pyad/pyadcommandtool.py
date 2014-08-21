@@ -1,4 +1,4 @@
-__author__ = 'ewanm_000'
+__author__ = 'Despatcher'
 import sys
 import pydoc
 import pyad
