@@ -1,0 +1,28 @@
+Help on package pyad:
+
+NAME
+    pyad
+
+FILE
+    c:\python27\lib\site-packages\pyad-0.5.11-py2.7.egg\pyad\__init__.py
+
+PACKAGE CONTENTS
+    adbase
+    adcomputer
+    adcontainer
+    addomain
+    adgroup
+    adobject
+    adquery
+    adsearch
+    aduser
+    pyad
+    pyadconstants
+    pyadexceptions
+    pyadutils
+
+DATA
+    __all__ = ['adbase', 'adquery', 'adsearch', 'adobject', 'adcomputer', ...
+    __loader__ = <zipimporter object "C:\Python27\lib\site-packages\pyad-0...
+
+
